@@ -1,0 +1,8 @@
+D:\emf\.net development\PatikaOdev1\bin\Debug\PatikaOdev1.exe.config
+D:\emf\.net development\PatikaOdev1\bin\Debug\PatikaOdev1.exe
+D:\emf\.net development\PatikaOdev1\bin\Debug\PatikaOdev1.pdb
+D:\emf\.net development\PatikaOdev1\obj\Debug\PatikaOdev1.csproj.SuggestedBindingRedirects.cache
+D:\emf\.net development\PatikaOdev1\obj\Debug\PatikaOdev1.csproj.CoreCompileInputs.cache
+D:\emf\.net development\PatikaOdev1\obj\Debug\PatikaOdev1.exe
+D:\emf\.net development\PatikaOdev1\obj\Debug\PatikaOdev1.pdb
+D:\emf\.net development\PatikaOdev1\obj\Debug\PatikaOdev1.csproj.AssemblyReference.cache
